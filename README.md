@@ -4,3 +4,6 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=18sht1710)](https://solved.ac/18sht1710)   
 ![CF](https://run.kaist.ac.kr/badges/codeforces/OnlyCplusplus.svg)↵
 ![AC](https://run.kaist.ac.kr/badges/atcoder/OnlyCplusplus.svg)↵  
+
+## Dev ##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cola314&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
