@@ -3,7 +3,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=18sht1710)](https://solved.ac/18sht1710)   
 [![CodeForces Profile](http://cf.leed.at?id={OnlyCplusplus})](https://codeforces.com/profile/{OnlyCplusplus})   
-![AC](https://run.kaist.ac.kr/badges/atcoder/OnlyCplusplus.svg)↵  
+![Badge](https://cp-logo.vercel.app/atcoder/OnlyCplusplus?logo=true)
 
 ## Dev ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cola314&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
