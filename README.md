@@ -37,7 +37,7 @@ Hello, I'm a developer who wants to make the world more convenient with SW and A
 ## 📜 Certificate
 - **Engineer Big Data Analysis** - 2024.07
 - **Advanced Data Analytics Semi-Professional (ADsP)** - 2024.03
-- **Engineer Information Processing** - 2002.06
+- **Engineer Information Processing** - 2020.06
 - **SQL Developer (SQLD)** - 2021.08
 
 ## 🏆 Awards
